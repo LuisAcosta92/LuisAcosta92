@@ -1,6 +1,6 @@
 ### PROFILE IN PROGRESS
 
-![image](https://user-images.githubusercontent.com/50558872/204391248-cbb8b324-fabd-4f93-9aa6-0ea7c60c0a1c.png)
+<!--![image](https://user-images.githubusercontent.com/50558872/204391248-cbb8b324-fabd-4f93-9aa6-0ea7c60c0a1c.png)
 
 ### Hi, I'm Luis 👋
 
